@@ -1,4 +1,4 @@
-# Windows 11-bootable USB download
+# Windows 11 bootable USB download
 Windows 11 is the latest operating system from Microsoft, designed to enhance productivity and provide a more streamlined user experience. It features a redesigned interface, improved performance, and new features that cater to both casual and professional users.
 <p>
 One of the significant advantages of installing Windows 11 from a specific ISO image is that it does not require a Microsoft account during the installation process. This allows users to maintain more privacy and control over their system. Additionally, this installation method can exclude certain components that may slow down system performance and are not user-oriented.

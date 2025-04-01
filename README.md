@@ -6,9 +6,9 @@ One of the significant advantages of installing Windows 11 from a specific ISO i
 
 <h2>Download Windows ISO</h2>
 1. From the torrent file above (in the list of files under the heading)</br>
-2. Mega <a href="https://mega.nz/file/nthFkaaa#HuPVm3moZb5RHT1uLp43uA98BHrZ2fz0LeGl7BjT7mo">link</a>
-3. Mediafire <a href="https://www.mediafire.com/file/2b6d4oqjd9js32e/Windows_11_PRO_x64.zip/file">link</a>
-4. Google Drive <a href="https://drive.google.com/file/d/1F_gtH6L9ibNawERv5uJ2Mzo4e7XPTpf2/view">link</a>
+2. Mega <a href="https://mega.nz/file/nthFkaaa#HuPVm3moZb5RHT1uLp43uA98BHrZ2fz0LeGl7BjT7mo">link</a></br>
+3. Mediafire <a href="https://www.mediafire.com/file/2b6d4oqjd9js32e/Windows_11_PRO_x64.zip/file">link</a></br>
+4. Google Drive <a href="https://drive.google.com/file/d/1F_gtH6L9ibNawERv5uJ2Mzo4e7XPTpf2/view">link</a></br>
 
 <h2>Creating a Bootable USB Flash Drive with Rufus</h2>
 <p>To create a bootable USB flash drive from a Windows 11 ISO image using Rufus, follow these steps:</p>
